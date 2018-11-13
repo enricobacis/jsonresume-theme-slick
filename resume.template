@@ -9,6 +9,10 @@
 
 	<link href="//bootswatch.com/3/lumen/bootstrap.min.css" rel="stylesheet">
 	<link href='//fonts.googleapis.com/css?family=Roboto:500,300' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/brands.css" integrity="sha384-QT2Z8ljl3UupqMtQNmPyhSPO/d5qbrzWmFxJqmY7tqoTuT2YrQLEqzvVOP2cT5XW" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/fontawesome.css" integrity="sha384-u5J7JghGz0qUrmEsWzBQkfvc8nK3fUT7DCaQzNQ+q4oEXhGSx+P2OqjWsfIRB8QT" crossorigin="anonymous">
+
 	<style>
 	{{{css}}}
 	</style>
@@ -79,7 +83,7 @@
 								<a href="{{url}}">
 								{{/if}}
 								{{#if network}}
-								<icon class="entypo-{{class}}"></icon>
+								<i class="fab fa-{{class}}"></i>
 								{{/if}}
 								{{#if url}}
 								</a>

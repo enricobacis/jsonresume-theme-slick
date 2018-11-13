@@ -31,4 +31,5 @@ Available under [the MIT license](http://mths.be/mit).
 
 ## Attributions
 
-Entypo pictograms by Daniel Bruce — [entypo.com](www.entypo.com)
+* Entypo pictograms by Daniel Bruce — [entypo.com](www.entypo.com)
+* Font Awesome — [fontawesome.com](fontawesome.com)
